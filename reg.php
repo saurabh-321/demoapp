@@ -28,7 +28,8 @@
 			    }
 			    else
 			    {
-			        echo "Records added successfully.";
+					echo "Records added successfully.";
+					echo "Records added successfully.";
 			        header('Location:login.php');
 			    }
 
